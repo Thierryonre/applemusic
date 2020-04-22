@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+applemusic/__init__.py
+applemusic/main.py
+applemusic.egg-info/PKG-INFO
+applemusic.egg-info/SOURCES.txt
+applemusic.egg-info/dependency_links.txt
+applemusic.egg-info/requires.txt
+applemusic.egg-info/top_level.txt
