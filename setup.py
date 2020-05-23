@@ -2,13 +2,13 @@ from setuptools import setup, Extension
 setup(
     name = 'applemusic',
     packages = ['applemusic'],
-    version = '0.3',
+    version = '0.4',
     license = 'MIT',
     description = 'Apple music in python made easy - Play music with ease!',
     author = 'Thierry Popat',
     author_email = 'Thierry_popat@hotmail.com',
     url = 'https://github.com/Thierryonre/applemusic',
-    download_url = 'https://github.com/Thierryonre/applemusic/archive/v0.3.tar.gz',
+    download_url = 'https://github.com/Thierryonre/applemusic/archive/v0.4.tar.gz',
     keywords = ['apple', 'music', 'applemusic', 'player', 'selenium', 'automation'],
     install_requires=[
         'selenium',

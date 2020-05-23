@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: applemusic
-Version: 0.3
+Version: 0.4
 Summary: Apple music in python made easy - Play music with ease!
 Home-page: https://github.com/Thierryonre/applemusic
 Author: Thierry Popat
 Author-email: Thierry_popat@hotmail.com
 License: MIT
-Download-URL: https://github.com/Thierryonre/applemusic/archive/v0.3.tar.gz
+Download-URL: https://github.com/Thierryonre/applemusic/archive/v0.4.tar.gz
 Description: 
             # applemusic
              Apple music in python made easy - Play music with ease!
