@@ -32,6 +32,7 @@ _Please keep in mind that this module is still in extreme-alpha._
 ## **Requirements**
 * Python 3.*
 * Selenium
+* The correct webdriver for your system - Please find all required selenium webservers [here](https://github.com/Thierryonre/Selenium-Drivers)
 
 ## **Installation**
 ### **From PyPi**
