@@ -51,7 +51,7 @@ class AppleMusic():
         self.driver.find_element(By.ID, "account_name_text_field").send_keys(appleID)
         self.driver.find_element(By.ID, "account_name_text_field").send_keys(Keys.ENTER)
         sleep(0.5)
-        self.driver.find_element(By.ID, "password_text_field").send_keys("Chipskylark0")
+        self.driver.find_element(By.ID, "password_text_field").send_keys(password)
         self.driver.find_element(By.ID, "password_text_field").send_keys(Keys.ENTER)
         self.driver.switch_to.default_content()
         sleep(0.2)
